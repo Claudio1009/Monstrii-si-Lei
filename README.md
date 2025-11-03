@@ -1,5 +1,4 @@
 # Monstrii si Lei
-[![Ask DeepWiki](https://devin.ai/assets/askdeepwiki.png)](https://deepwiki.com/Claudio1009/Monstrii-si-Lei)
 
 "Monstrii si Lei" (Romanian for "Monsters and Lei," a pun on the "Lei" currency) is a C++ console application designed to simulate and calculate the production costs for a film project. It uses the cast and crew list from the "Wednesday" series as its base data to estimate expenses across various categories like accommodation, transport, catering, and special effects makeup. The application can calculate daily costs and aggregate them over 30, 45, 60, and 100-day periods.
 
